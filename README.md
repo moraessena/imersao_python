@@ -8,4 +8,4 @@
 
 ## Aula 02
 
-💡Estruturas Condicionais e Estruturas de Repetição
+💡Estruturas Condicionais
