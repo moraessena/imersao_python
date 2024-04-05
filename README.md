@@ -5,3 +5,7 @@
 ## Aula 01
 
 💡Conceitos Básicos, Constantes e Variáveis, Entradas e Saídas
+
+## Aula 02
+
+💡Estruturas Condicionais e Estruturas de Repetição
